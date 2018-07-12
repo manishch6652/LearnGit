@@ -1,20 +1,4 @@
-AThis is for trial
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-
-
-C
-C
-C
-C
-
-
+This is for trial
+The result of the ls command is a list of the contents of the current directory.
+Hi
 
