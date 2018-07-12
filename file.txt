@@ -1,4 +1,9 @@
+
+
 This is for trial
-The result of the ls command is a list of the contents of the current directory.
+
+
+ I added this line
+The   the ls command is a list of the contents of the current directory.
 Hi
 
